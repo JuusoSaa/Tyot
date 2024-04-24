@@ -1,0 +1,10 @@
+C:\Users\topiadmin\source\repos\Koe_Juuso\Koe_Juuso\bin\Debug\Koe_Juuso.exe.config
+C:\Users\topiadmin\source\repos\Koe_Juuso\Koe_Juuso\bin\Debug\Koe_Juuso.exe
+C:\Users\topiadmin\source\repos\Koe_Juuso\Koe_Juuso\bin\Debug\Koe_Juuso.pdb
+C:\Users\topiadmin\source\repos\Koe_Juuso\Koe_Juuso\obj\Debug\Koe_Juuso.csproj.AssemblyReference.cache
+C:\Users\topiadmin\source\repos\Koe_Juuso\Koe_Juuso\obj\Debug\Koe_Juuso.Form1.resources
+C:\Users\topiadmin\source\repos\Koe_Juuso\Koe_Juuso\obj\Debug\Koe_Juuso.Properties.Resources.resources
+C:\Users\topiadmin\source\repos\Koe_Juuso\Koe_Juuso\obj\Debug\Koe_Juuso.csproj.GenerateResource.cache
+C:\Users\topiadmin\source\repos\Koe_Juuso\Koe_Juuso\obj\Debug\Koe_Juuso.csproj.CoreCompileInputs.cache
+C:\Users\topiadmin\source\repos\Koe_Juuso\Koe_Juuso\obj\Debug\Koe_Juuso.exe
+C:\Users\topiadmin\source\repos\Koe_Juuso\Koe_Juuso\obj\Debug\Koe_Juuso.pdb
